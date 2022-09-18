@@ -2,8 +2,8 @@
 
 ## I'm a computer science student at Federal University of Campina Grande!
 
-- 🔭 19 years
-- 🌱 I'm currently in the second year of graduation
+- 🔭 20 years
+- 🌱 I'm currently in the third year of graduation
 - 🥅 Full stack developer 
 
 ### Languages and Tools:
